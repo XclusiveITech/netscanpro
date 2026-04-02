@@ -1,2 +1,0 @@
-# netscanpro
-network scann project
